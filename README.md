@@ -1,7 +1,3 @@
-Sure! Here's a well-written project description for your **Multiple Disease Prediction System** using three ML models, trained and deployed with **Streamlit**:
-
----
-
 ## 🩺 Multiple Disease Prediction System – ML & Streamlit Deployment
 
 ### 📌 Project Description:
@@ -55,7 +51,3 @@ C:\ml_deployment
 - Machine Learning (Scikit-learn, Pandas, NumPy)
 - Streamlit for deployment
 - Pickle for model serialization
-
----
-
-Let me know if you want this description in a shorter or more formal version (e.g., for a resume or report). I can also help build or polish your `app.py` file if needed!
